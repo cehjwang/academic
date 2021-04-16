@@ -12,7 +12,7 @@ Hi, there. Welcome to my personal website. I am currently a post-doctoral resear
 Education
 ======
 * Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2020
-* B.Eng. in Civil Engineering, China University of Geosciences (Wuhan), 2016
+* B.Eng. in Civil Engineering, China University of Geosciences, 2016
 
 Research interests
 ======
