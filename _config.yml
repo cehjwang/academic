@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Haojie Wang"
+  name             : "Haojie Wang, PhD"
   avatar           : "profile.png"
   bio              : "Post-doctoral Researcher of HKUST"
   location         : "Hong Kong SAR, CN"
-  employer         : "https://hkust.edu.hk/"
+  employer         : The Hong Kong University of Science and Technology
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oU5bH20AAAAJ&hl=en&authuser=2"
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1803-6250"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
