@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi, there. Welcome to my homepage. I am currently a post-doctoral researcher at Department of Civil & Environmental Engineering of the Hong Kong University of Science and Technology.
 
 Education
 ======
