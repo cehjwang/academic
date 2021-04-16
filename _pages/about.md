@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, there. Welcome to my homepage. I am currently a post-doctoral researcher at Department of Civil & Environmental Engineering of the Hong Kong University of Science and Technology.
+Hi, there. Welcome to my personal website. I am currently a post-doctoral researcher at Department of Civil & Environmental Engineering of the Hong Kong University of Science and Technology.
 
 Education
 ======
-* Ph.D in Civil Engineering, the Hong Kong University of Science and Technology, 2020
+* Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2020
 * B.Eng. in Civil Engineering, China University of Geosciences (Wuhan), 2016
 
 Research interests
@@ -21,4 +21,4 @@ My current research interests and ongoing research projects encompass two fields
 
 Recent updates
 ======
-[2021.04.16] An research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" published on Engineering Geology.
+[2021.04.02] A new research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" published on Engineering Geology.
