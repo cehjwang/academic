@@ -11,8 +11,8 @@ Hi, there. Welcome to my homepage. I am currently a post-doctoral researcher at 
 
 Education
 ======
-Ph.D.	The Hong Kong University of Science and Technology, Hong Kong	2020  
-B.Eng.	China University of Geosciences, Wuhan	2016
+* Ph.D in Civil Engineering, the Hong Kong University of Science and Technology, 2020
+* B.Eng. in Civil Engineering, China University of Geosciences (Wuhan), 2016
 
 Research interests
 ======
@@ -21,5 +21,4 @@ My current research interests and ongoing research projects encompass two fields
 
 Recent updates
 ======
-[2021.04.16] An research paper entiled "AI-powered landslide susceptibility assessment in Hong Kong" published on Engineering Geology.[URL](https://www.sciencedirect.com/science/article/pii/S0013795221001149)
-
+[2021.04.16] An research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" published on Engineering Geology.
