@@ -26,6 +26,4 @@ My current research interests and ongoing research projects encompass two fields
 
 Recent updates
 ======
-<div align="justify">
 [2021.04.02] A new research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" published on Engineering Geology.
-</div>
