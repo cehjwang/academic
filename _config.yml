@@ -11,7 +11,7 @@ title                    : "Dr. Haojie Wang"
 title_separator          : "-"
 name                     : &name "Haojie Wang"
 description              : &description "Post-doctoral Researcher of HKUST"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cehjwang.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Haojie Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Post-doctoral Researcher of HKUST"
+  location         : "Hong Kong SAR, CN"
+  employer         : "https://hkust.edu.hk/"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=oU5bH20AAAAJ&hl=en&authuser=2"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Haojie-Wang-6"
   uri              :
   bitbucket        :
   codepen          :
