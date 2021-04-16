@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Haojie Wang"
+title                    : "Dr. Haojie WANG"
 title_separator          : "-"
 name                     : &name "Haojie Wang"
-description              : &description "Post-doctoral Researcher of HKUST"
+description              : &description "Post-doctoral Researcher, HKUST"
 url                      : https://cehjwang.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haojie Wang, PhD"
+  name             : "Haojie Wang, Ph.D"
   avatar           : "profile.png"
-  bio              : "Post-doctoral Researcher of HKUST"
+  bio              : "Post-doctoral Researcher, HKUST"
   location         : "Hong Kong SAR, CN"
-  employer         : The Hong Kong University of Science and Technology
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oU5bH20AAAAJ&hl=en&authuser=2"
   email            :
