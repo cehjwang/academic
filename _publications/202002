@@ -1,0 +1,15 @@
+---
+title: "Landslide identification using machine learning"
+collection: publications
+permalink: /publication/202002
+excerpt: 'Highlights:<br>1. Landslide identification is critical for risk assessment and mitigation.<br>2. A novel integrated machine-learning and deep-learning method is proposed to identify natural-terrain landslides.<br> 3. Multiple machine learning and deep learning models are trained and evaluated on three landslide databases.<br> 4. A case study in Lantau, Hong Kong, is worked out, achieving an identification accuracy of 92.5%. <br> The deep convolutional neural network model is found to be the most promising for landslide identification.'
+date: 2020-02-22
+venue: 'Geoscience Frontiers'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1674987120300542'
+citation: 'Wang, H., Zhang, L., Yin, K., Luo, H. and Li, J., 2021. Landslide identification using machine learning. Geoscience Frontiers, 12(1), pp.351-364.'
+---
+This paper is about the number 2. The number 3 is left for future work.
+
+[Find paper here](https://www.sciencedirect.com/science/article/pii/S1674987120300542)
+
+Recommended citation: Wang, H., Zhang, L., Yin, K., Luo, H. and Li, J., 2021. Landslide identification using machine learning. <i>Geoscience Frontiers</i>, 12(1), pp.351-364.
