@@ -62,7 +62,7 @@ Presentations and talks
 ======
 <!--  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> //-->
 * The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral presentation, invited by Prof Bo Zhang of Peking University)
 
 * The 7th Asian-Pacific Symposium on Structural Reliability and Its Applications, Tokyo, Japan, October 5-7, 2020. (Oral presentation)
@@ -85,7 +85,7 @@ Teaching
 ======
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> //-->
 * HKUST CIVL1160 (2019): Civil Engineering and Modern Society, Teaching Assistant
 * HKUST CIVL1160 (2018): Civil Engineering and Modern Society, Teaching Assistant
 * HKUST CIVL1160 (2017): Civil Engineering and Modern Society, Teaching Assistant
@@ -94,7 +94,7 @@ Teaching
   
 Professional service
 ======
-Journals and conferences reviewer
+**Journals and conferences reviewer**
 * Engineering Geology
 * Bulletin of Engineering Geology and the Environment
 * Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
