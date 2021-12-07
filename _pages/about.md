@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,4 +33,6 @@ My current research interests and ongoing research projects encompass two fields
 
 Recent updates
 ======
-[2021.04.02] A new research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" published on Engineering Geology.  
+[2021.12.18] A new research paper entiled "[An Automated Snow Mapper Powered by Machine Learning](https://www.mdpi.com/2072-4292/13/23/4826)" is published on Remote Sensing.
+[2021.11.16] As invited by Prof Bo Zhang of Peking Univeristy, I made a presentation named [Natural terrain landslide hazards in Hong Kong] on the The Fifth International Young Scholars Geo-Symposium, Beijing, China.  
+[2021.04.02] A new research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" is published on Engineering Geology.  
