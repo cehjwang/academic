@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div align="justify">
 Hi, there. Welcome to my personal website. <br>
-I am currently a post-doctoral researcher at <a href="https://www.ce.ust.hk/">Department of Civil & Environmental Engineering</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology(HKUST)</a>.
+I am currently a post-doctoral researcher at <a href="https://www.ce.ust.hk/">Department of Civil & Environmental Engineering</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>.
 </div>
 
 -----
@@ -24,10 +24,11 @@ Education
 Research interests
 ======
 <div align="justify">
-My research focuses on the integration of landslide research with state-of-art artificial intelligence techniques, real-time slope reliability analysis using monitoring information and the applications of Interferometric synthetic aperture radar (InSAR) for landslide studies.  
+My research focuses on the investigation of rain- and earthquake-induced landslides using artificial intelligence (AI) and remote sensing techniques, the analysis of real-time slope reliability using multi-source monitoring information, as well as developing machine learning-based solutions for snow/glacier analyses. My research area mainly covers the entire Hong Kong and the Tibetan Plateau.
+
 </div>
 <div align="justify">
-My current research interests and ongoing research projects encompass two fields: 1) AI powered landslide identification, susceptibility assessment and forecasting and 2) Dynamic landslide reliability analysis using monitoring and remote sensing data.
+My current research interests and ongoing research projects encompass three fields: 1) AI-powered landslide identification, susceptibility assessment and forecasting, 2) ML-based automated snow/glacier mapping and evolution analysis, and 3) Dynamic landslide reliability analysis using monitoring and remote sensing data.
 </div>
 
 -----
