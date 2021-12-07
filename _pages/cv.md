@@ -70,27 +70,6 @@ Presentations and talks
 
 * Computational Modelling of Multi-Uncertainty and Multi-Scale Problems 2017 (COMUS17), Porto, Portugal, September 12-14, 2017. (Oral presentation)
 
- 
-Skills
-======
-* Data processing and analysis
-* Machine learning programming
-* Remote sensing image interpretation (e.g., ENVI, ArcGIS, SNAP, etc.)
-* Field investigation and mapping
-* China Computer Test Level II C Language Excellent Certificate
-* China Computer Test Level III Network Technique Certificate
-  
-Teaching
-======
-<!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> //-->
-* HKUST CIVL1160 (2019): Civil Engineering and Modern Society, Teaching Assistant
-* HKUST CIVL1160 (2018): Civil Engineering and Modern Society, Teaching Assistant
-* HKUST CIVL1160 (2017): Civil Engineering and Modern Society, Teaching Assistant
-* HKUST CIVL 2410 (2016): Environmental Assessment and Management, Teaching Assistant
-
-  
 Professional service
 ======
 **Journals and conferences reviewer**
@@ -102,3 +81,22 @@ Professional service
 * Geocarto International
 * The International Conference on Embankment Dams (ICED2020), Beijing, China
 * Geo-Extreme 2021, Savannah, Georgia, USA
+ 
+Teaching experience
+======
+<!--   <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> //-->
+* HKUST CIVL1160 (2019): Civil Engineering and Modern Society, Teaching Assistant
+* HKUST CIVL1160 (2018): Civil Engineering and Modern Society, Teaching Assistant
+* HKUST CIVL1160 (2017): Civil Engineering and Modern Society, Teaching Assistant
+* HKUST CIVL 2410 (2016): Environmental Assessment and Management, Teaching Assistant
+
+Skills
+======
+* Data processing and analysis
+* Machine learning programming
+* Remote sensing image interpretation (e.g., ENVI, ArcGIS, SNAP, etc.)
+* Field investigation and mapping
+* China Computer Test Level II C Language Excellent Certificate
+* China Computer Test Level III Network Technique Certificate
