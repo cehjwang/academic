@@ -27,9 +27,16 @@ Work experience
 Publications
 ======
 **Peer-reviewed journal papers with first authorship**
-  <ul>{% for post in site.publications %}
+<!-- + text +   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, https://doi.org/10.1016/j.enggeo.2021.106103.
+
+* **Wang, H.J.**, Zhang, L.M., Yin, K., Luo, H.Y., Li, J.H., 2021. Landslide identification using machine learning. Geoscience Frontiers, https://doi.org/10.1016/j.gsf.2020.02.012. (Clarivate ESI Hot Paper& Highly Cited Paper as of July 2021)
+
+* **Wang, H.J.**, Zhang, L.M., Wang, L., He, J., Luo, H.Y., 2021. An Automated Snow Mapper Powered by Machine Learning. Remote Sensing, 13(23), 4826. https://doi.org/10.3390/rs13234826.
+
+* **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. https://doi.org/10.1016/j.enggeo.2019.02.004.
   
 **Co-authored journal papers**
 * Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, <url>https://10.1007/s10346-021-01745-y</url>.
@@ -49,13 +56,20 @@ Publications
 
 * **Wang, H.J.**, Zhang, L.M., 2019. Landslide susceptibility updating considering real-time observations, Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. American Society of Civil Engineers Reston, VA, pp. 107-113. https://doi.org/10.1061/9780784482155.011.
   
-Talks
+Presentations and talks
 ======
-  <ul>{% for post in site.talks %}
+<!--  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral presentation, invited by Prof Bo Zhang of Peking University)
 
-  
+* The 7th Asian-Pacific Symposium on Structural Reliability and Its Applications, Tokyo, Japan, October 5-7, 2020. (Oral presentation)
+
+* Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. Philadelphia, Pennsylvania, USA, March 24–27, 2019. (Oral presentation)
+
+* Computational Modelling of Multi-Uncertainty and Multi-Scale Problems 2017 (COMUS17), Porto, Portugal, September 12-14, 2017. (Oral presentation)
+
+ 
 Skills
 ======
 * Data processing and analysis
@@ -67,9 +81,14 @@ Skills
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* HKUST CIVL1160 (2019): Civil Engineering and Modern Society, Teaching Assistant
+* HKUST CIVL1160 (2018): Civil Engineering and Modern Society, Teaching Assistant
+* HKUST CIVL1160 (2017): Civil Engineering and Modern Society, Teaching Assistant
+* HKUST CIVL 2410 (2016): Environmental Assessment and Management, Teaching Assistant
+
   
 Professional service
 ======
