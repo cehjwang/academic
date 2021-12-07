@@ -32,7 +32,7 @@ Publications
   {% endfor %}</ul>
   
 **Co-authored journal papers**
-* Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, https://10.1007/s10346-021-01745-y.
+* Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, <url>https://10.1007/s10346-021-01745-y</url>.
 
 * Qiang, Y.J., Zhang, L.M., He, J., Xiao, T., Huang, H.H., **Wang, H.J.**, 2021. Urban flood hazards in the Guangdong-Hong Kong-Macau Greater Bay Area upon compound rainstorm-storm surge events, Journal of Hydrology, https://doi.org/10.1016/j.jhydrol.2021.126293.
 
