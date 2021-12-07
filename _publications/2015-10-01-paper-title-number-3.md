@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "A novel physically-based model for updating landslide susceptibility"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Highlights:<br> 1. We developed a novel physically-based method for updating landslide susceptibility.<br> 2. Susceptibility is related to spatially and cross correlated soil parameters via Bayes theory.<br> 3. Observed slope performance is used to update landslide susceptibility and soil parameters.<br> 4. The accuracy and capacity of landslide susceptibility analysis are improved significantly.'
+date: 2019-02-07
+venue: 'Engineering Geology'
+paperurl: 'https://doi.org/10.1016/j.enggeo.2019.02.004'
+citation: 'Wang, H.J., Xiao, T., Li, X.Y., Zhang, L.L. and Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. <i>Engineering Geology</i>, 251, pp.71-80.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+**ABSTRACT**  A novel physically-based method for updating landslide susceptibility is presented in this paper, considering both spatial and cross correlations. First, a Bayesian network relating landslide susceptibility to spatially and cross correlated soil parameters is constructed for susceptibility assessment. Then, the correlations among the grid cells and the prior probabilities of the Bayesian network are quantified utilizing Monte Carlo simulation and random field theory. After that, observed slope performance information is used to update the landslide susceptibility and the soil parameters. Two case studies were worked out to illustrate the application of the proposed method. It is found that the integration of performance information of certain cells significantly improves the susceptibility evaluation of the adjacent cells and the updated soil properties are closer to the reality. By introducing the Bayesian network to physically-based landslide susceptibility, this method is able to consider the inherent correlations in landslide susceptibility analysis and update regional landslide susceptibility and soil parameters utilizing performance information, effectively improving the accuracy and capacity of physically-based landslide susceptibility analysis.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Find paper here](https://doi.org/10.1016/j.enggeo.2019.02.004)
