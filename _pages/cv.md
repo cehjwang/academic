@@ -26,12 +26,12 @@ Work experience
 
 Publications
 ======
-Peer-reviewed journal papers with first authorship
+**Peer-reviewed journal papers with first authorship**
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Co-authored journal papers
+**Co-authored journal papers**
 * Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, https://10.1007/s10346-021-01745-y.
 
 * Qiang, Y.J., Zhang, L.M., He, J., Xiao, T., Huang, H.H., **Wang, H.J.**, 2021. Urban flood hazards in the Guangdong-Hong Kong-Macau Greater Bay Area upon compound rainstorm-storm surge events, Journal of Hydrology, https://doi.org/10.1016/j.jhydrol.2021.126293.
@@ -44,7 +44,7 @@ Co-authored journal papers
 
 * Fan, R.L., Zhang, L.M., **Wang, H.J**., Fan, X.M., 2018. Evolution of debris flow activities in Gaojiagou ravine during 2008-2016 after the Wenchuan earthquake. Engineering Geology 235: 1-10. https://doi.org/10.1016/j.enggeo.2018.01.017.
 
-Conference papers
+**Conference papers**
 * **Wang, H.J.**, Zhang, L.M., Xiao, T. 2020. DTM and rainfall-based landslide susceptibility analysis using machine learning: A case study of Lantau Island, Hong Kong, APSSRA 2020, Tokyo, Japan. https://doi.org/10.15083/00079806.
 
 * **Wang, H.J.**, Zhang, L.M., 2019. Landslide susceptibility updating considering real-time observations, Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. American Society of Civil Engineers Reston, VA, pp. 107-113. https://doi.org/10.1061/9780784482155.011.
