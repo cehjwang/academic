@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Civil Engineering (Geotechnical Engineering), China University of Geosciences, 2016
+* Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020 - Now: Postdoctoral Researcher
+  * The Hong Kong University of Science and Technology
+  * Supervisor: [Professor Limin Zhang](https://scholar.google.com/citations?hl=en&user=pgbtUwkAAAAJ&view_op=list_works&sortby=pubdate)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016 - Summer 2020: Research Assistant
+  * The Hong Kong University of Science and Technology
+  * Supervisor: [Professor Limin Zhang](https://scholar.google.com/citations?hl=en&user=pgbtUwkAAAAJ&view_op=list_works&sortby=pubdate)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data processing and analysis
+* Machine learning programming
+* Remote sensing image interpretation (e.g., ENVI, ArcGIS, SNAP, etc.)
+* Field investigation and mapping
+* China Computer Test Level II C Language Excellent Certificate
+* China Computer Test Level III Network Technique Certificate
 
 Publications
 ======
@@ -54,6 +51,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional service
 ======
-* Currently signed in to 43 different slack teams
+Journals and conferences reviewer
+* Engineering Geology
+* Bulletin of Engineering Geology and the Environment
+* Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+* Lithosphere
+* Geomatics Natural Hazards & Risk
+* Geocarto International
+* The International Conference on Embankment Dams (ICED2020), Beijing, China
+* Geo-Extreme 2021, Savannah, Georgia, USA
