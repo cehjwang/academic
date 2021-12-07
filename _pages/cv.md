@@ -30,7 +30,7 @@ Publications
 <!-- + text +   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-* **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, https://doi.org/10.1016/j.enggeo.2021.106103.
+* **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, <a href="https://doi.org/10.1016/j.enggeo.2021.106103">https://doi.org/10.1016/j.enggeo.2021.106103</a>.
 
 * **Wang, H.J.**, Zhang, L.M., Yin, K., Luo, H.Y., Li, J.H., 2021. Landslide identification using machine learning. Geoscience Frontiers, https://doi.org/10.1016/j.gsf.2020.02.012. (Clarivate ESI Hot Paper& Highly Cited Paper as of July 2021)
 
@@ -39,7 +39,7 @@ Publications
 * **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. https://doi.org/10.1016/j.enggeo.2019.02.004.
   
 **Co-authored journal papers**
-* Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, <url>https://10.1007/s10346-021-01745-y</url>.
+* Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, https://10.1007/s10346-021-01745-y.
 
 * Qiang, Y.J., Zhang, L.M., He, J., Xiao, T., Huang, H.H., **Wang, H.J.**, 2021. Urban flood hazards in the Guangdong-Hong Kong-Macau Greater Bay Area upon compound rainstorm-storm surge events, Journal of Hydrology, https://doi.org/10.1016/j.jhydrol.2021.126293.
 
