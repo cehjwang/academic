@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications with first authorship"
+title: "Peer-reviewed journal papers with first authorship"
 permalink: /publications/
 author_profile: true
 ---
