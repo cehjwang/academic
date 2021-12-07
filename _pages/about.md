@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div align="justify">
 Hi, there. Welcome to my personal website. <br>
-I am currently a post-doctoral researcher at Department of Civil & Environmental Engineering of the Hong Kong University of Science and Technology.
+I am currently a post-doctoral researcher at [Department of Civil & Environmental Engineering](https://www.ce.ust.hk/) of the Hong Kong University of Science and Technology.
 </div>
 
 -----
