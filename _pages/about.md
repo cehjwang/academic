@@ -36,7 +36,6 @@ Recent updates
 ======
 [2021.12.18] A new research paper entiled "[An Automated Snow Mapper Powered by Machine Learning](https://www.mdpi.com/2072-4292/13/23/4826)" is published on Remote Sensing.
 
-[2021.11.16] As invited by Prof Bo Zhang of Peking Univeristy, I made a presentation named [Natural terrain landslide hazards in Hong Kong] on the The Fifth International Young Scholars Geo-Symposium held at Peking Universtiy, Beijing, China.
+[2021.11.16] As invited by Prof Bo Zhang of Peking Univeristy, I made a presentation named **Natural terrain landslide hazards in Hong Kong** on the The Fifth International Young Scholars Geo-Symposium held at Peking Universtiy, Beijing, China.
 
 [2021.04.02] A new research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0013795221001149)" is published on Engineering Geology.  
-"profile.png"
