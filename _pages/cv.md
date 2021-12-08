@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"[PDF](cehjwang.github.io/files/CV_Haojie WANG.pdf)
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Click here for PDF version :)](cehjwang.github.io/files/CV_Haojie WANG.pdf)
 
 Education
 ======
