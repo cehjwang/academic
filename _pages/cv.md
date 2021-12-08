@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for PDF version :)](cehjwang.github.io/files/CV_Haojie WANG.pdf)
+[Click here for PDF version :)](https://cehjwang.github.io/files/CV_Haojie%20WANG.pdf)
 
 Education
 ======
