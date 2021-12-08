@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome! 欢迎! Bienvenue/Bienvenu! Willkommen! Bienvenido/Bienvenida! Добро пожаловать! ようこそ! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div align="justify">
 Hi, there. Welcome to my personal website. <br>
-I am currently a post-doctoral researcher at <a href="https://www.ce.ust.hk/">Department of Civil & Environmental Engineering</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>, working with <a href="https://www.ce.ust.hk/people/limin-zhang-zhanglimin">Prof. Limin Zhang</a>.
+I am Haojie Wang (王昊杰), currently a post-doctoral researcher at <a href="https://www.ce.ust.hk/">Department of Civil & Environmental Engineering</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>, working with <a href="https://www.ce.ust.hk/people/limin-zhang-zhanglimin">Prof. Limin Zhang</a>.
 </div>
 
 -----
