@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae[PDF](cehjwang.github.io/files/CV_Haojie WANG.pdf)"
+title: "Curriculum Vitae"[PDF](cehjwang.github.io/files/CV_Haojie WANG.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
