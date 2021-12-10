@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Welcome! 欢迎! Bienvenue/Bienvenu! Willkommen! Bienvenido/Bienvenida! Добро пожаловать! ようこそ! ... "
-excerpt: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
