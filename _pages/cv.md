@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Civil Engineering, China University of Geosciences, 2016
 * Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2020
+* B.Eng. in Civil Engineering, China University of Geosciences, 2016
 
 Work experience
 ======
