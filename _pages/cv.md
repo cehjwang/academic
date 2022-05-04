@@ -18,6 +18,8 @@ Education
 * B.Eng. in Civil Engineering, China University of Geosciences, 2016
   Grade ranking: 1st/208, top 0.5% with National Scholarship
   Excellent Bachelor’s Degree Dissertation Award of Hubei Province, China (Highest honor for college graduate)
+  
+  
 Work experience
 ======
 * Summer 2020 - Now: Postdoctoral Researcher
