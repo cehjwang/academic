@@ -20,11 +20,11 @@ Work experience
 ======
 * Summer 2020 - Now: Postdoctoral Researcher
   * The Hong Kong University of Science and Technology
-  * Supervisor: [Professor Limin Zhang](https://scholar.google.com/citations?hl=en&user=pgbtUwkAAAAJ&view_op=list_works&sortby=pubdate)
+  * Advisor: [Professor Limin Zhang](https://scholar.google.com/citations?hl=en&user=pgbtUwkAAAAJ&view_op=list_works&sortby=pubdate)
 
 * Fall 2016 - Summer 2020: Research Assistant
   * The Hong Kong University of Science and Technology
-  * Supervisor: [Professor Limin Zhang](https://scholar.google.com/citations?hl=en&user=pgbtUwkAAAAJ&view_op=list_works&sortby=pubdate)
+  * Advisor: [Professor Limin Zhang](https://scholar.google.com/citations?hl=en&user=pgbtUwkAAAAJ&view_op=list_works&sortby=pubdate)
 
 Publications
 ======
@@ -76,9 +76,10 @@ Professional service
 ======
 **Journals and conferences reviewer**
 * Engineering Geology
-* Bulletin of Engineering Geology and the Environment
-* Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+* Automation in Construction 
 * Lithosphere
+* Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
+* Bulletin of Engineering Geology and the Environment
 * Geomatics Natural Hazards & Risk
 * Geocarto International
 * The International Conference on Embankment Dams (ICED2020), Beijing, China
