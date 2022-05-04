@@ -30,7 +30,7 @@ My current research focuses on the investigation of rain- and earthquake-induced
 </div>
 <div align="justify">
   <br />
-My ongoing research projects encompass three fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping   and temporal evolution analysis, and (c) Experimental investigations on hydrophobic (water repellent) soil.
+My ongoing research projects encompass three fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping   and temporal evolution analysis, and (c) Experimental investigations on hydrophobic (water repellent) soils.
 </div>
 
 -----
