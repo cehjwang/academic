@@ -14,10 +14,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2020<br />
+  Postgraduate studentship, HKUST<br />
   Graduation Grade Average: 3.9/4.0
 * B.Eng. in Civil Engineering, China University of Geosciences, 2016<br />
-  Grade ranking: 1st/208, top 0.5% with National Scholarship<br />
-  Excellent Bachelor’s Degree Dissertation Award of Hubei Province, China (Highest honor for college graduate)
+  Grade ranking: 1st/208, top 0.5%<br />
+  National Scholarship (Highest honor for chinese students)<br />
+  Excellent Bachelor’s Degree Dissertation Award of Hubei Province, China (Highest honor for bachelor’s degree dissertation)
   
   
 Work experience
