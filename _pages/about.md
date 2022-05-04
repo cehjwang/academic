@@ -23,19 +23,21 @@ Education
 Research interests
 ======
 <div align="justify">
-My research focuses on the investigation of rain- and earthquake-induced landslides using artificial intelligence (AI) and remote sensing techniques, the analysis of real-time slope reliability using multi-source monitoring information, as well as developing machine learning-based solutions for snow/glacier analyses. My research area mainly covers the entire Hong Kong and the Tibetan Plateau.
+My current research focuses on the investigation of rain- and earthquake-induced landslides using artificial intelligence (AI) and remote sensing (RS) techniques, as well as developing machine learning-based solutions for snow/glacier analyses. My research area mainly covers the entire Hong Kong and the eastern Tibetan Plateau.
 
 </div>
 <div align="justify">
-My current research interests and ongoing research projects encompass three fields: 1) AI-powered landslide identification, susceptibility assessment and forecasting, 2) ML-based automated snow/glacier mapping and evolution analysis, and 3) Dynamic landslide reliability analysis using monitoring and remote sensing data.
+My ongoing research projects encompass three fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping   and temporal evolution analysis, and (c) Experimental investigations on hydrophobic (water repellent) soil.
 </div>
 
 -----
 
 Recent updates
 ======
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.03.23] We have collaborated with the United Nations Environment Programme (UNEP) on the STARTHack 2022 held in St. Gallen, Switzerland. Check [Here](https://github.com/START-Hack/UNEP-STARTHACK22) for more details.
+
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.12.18] A new research paper entiled "[An Automated Snow Mapper Powered by Machine Learning](https://cehjwang.github.io/publication/202111)" is published on Remote Sensing.
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.11.16] As invited by Prof Bo Zhang of Peking Univeristy, I made a presentation named [*Natural terrain landslide hazards in Hong Kong*](https://cehjwang.github.io/talks/2021-11-16-talk) on the [The Fifth International Young Scholars Geo-Symposium](https://sess.pku.edu.cn/xwzx/xytz/358040.htm) held at Peking Universtiy, Beijing, China.
 
-<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.04.02] A new research paper entiled "[AI-powered landslide susceptibility assessment in Hong Kong](https://cehjwang.github.io/publication/202101)" is published on Engineering Geology.  
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.04.02] A new research paper entiled '[AI-powered landslide susceptibility assessment in Hong Kong](https://cehjwang.github.io/publication/202101)' is published on Engineering Geology.  
