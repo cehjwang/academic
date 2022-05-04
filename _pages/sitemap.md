@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Sitemap is currently not available, please try again later.
+Sitemap is currently not available, please check again next time. :)
