@@ -41,6 +41,6 @@ Recent updates
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.12.18] A new research paper entiled "[An Automated Snow Mapper Powered by Machine Learning](https://cehjwang.github.io/publication/202111)" is published on Remote Sensing.
 
-<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.11.16] As invited by Prof Bo Zhang of Peking Univeristy, I made a presentation named [*Natural terrain landslide hazards in Hong Kong*](https://cehjwang.github.io/talks/2021-11-16-talk) on the [The Fifth International Young Scholars Geo-Symposium](https://sess.pku.edu.cn/xwzx/xytz/358040.htm) held at Peking Universtiy, Beijing, China.
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.11.16] As invited by Prof Bo Zhang of Peking Univeristy, I gave a presentation named [*Natural terrain landslide hazards in Hong Kong*](https://cehjwang.github.io/talks/2021-11-16-talk) on the [The Fifth International Young Scholars Geo-Symposium](https://sess.pku.edu.cn/xwzx/xytz/358040.htm) held at Peking Universtiy, Beijing, China.
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.04.02] A new research paper entiled '[AI-powered landslide susceptibility assessment in Hong Kong](https://cehjwang.github.io/publication/202101)' is published on Engineering Geology.  
