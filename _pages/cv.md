@@ -65,18 +65,20 @@ Publications
 
 * **Wang, H.J.**, Zhang, L.M., 2019. Landslide susceptibility updating considering real-time observations, Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. American Society of Civil Engineers Reston, VA, pp. 107-113. <a href="https://doi.org/10.1061/9780784482155.011">https://doi.org/10.1061/9780784482155.011</a>.
   
-Presentations and talks
+Presentations and invited talks
 ======
 <!--  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> //-->
-* The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral presentation, invited by Prof Bo Zhang of Peking University)
+* The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral, invited)
 
-* The 7th Asian-Pacific Symposium on Structural Reliability and Its Applications, Tokyo, Japan, October 5-7, 2020. (Oral presentation)
+* The 7th Asian-Pacific Symposium on Structural Reliability and Its Applications, Tokyo, Japan, October 5-7, 2020. (Oral)
+* 
+* EGU2020: Sharing Geoscience Online, May 4-8, 2020. (Oral)
 
-* Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. Philadelphia, Pennsylvania, USA, March 24–27, 2019. (Oral presentation)
+* Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. Philadelphia, Pennsylvania, USA, March 24–27, 2019. (Oral)
 
-* Computational Modelling of Multi-Uncertainty and Multi-Scale Problems 2017 (COMUS17), Porto, Portugal, September 12-14, 2017. (Oral presentation)
+* Computational Modelling of Multi-Uncertainty and Multi-Scale Problems 2017 (COMUS17), Porto, Portugal, September 12-14, 2017. (Oral)
 
 Professional service
 ======
