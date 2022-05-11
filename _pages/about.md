@@ -25,7 +25,7 @@ Research interests
 <div align="justify">
   <img src="/images/reserach%20overview.png">
   <br />  <br />
-My current research focuses on the investigation of rain- and earthquake-induced landslides using artificial intelligence (AI) and remote sensing (RS) techniques, as well as developing machine learning-based solutions for snow/glacier analyses. My research area mainly covers the entire Hong Kong and the eastern Tibetan Plateau.
+My current research focuses on the investigation of rain- and earthquake-induced landslides using artificial intelligence (AI) and remote sensing (RS) techniques, as well as developing machine learning-based solutions for snow/glacier analyses. My research area mainly covers Hong Kong and the Tibetan Plateau.
 
 </div>
 <div align="justify">
