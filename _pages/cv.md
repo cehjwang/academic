@@ -73,7 +73,7 @@ Presentations and invited talks
 * The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral, invited)
 
 * The 7th Asian-Pacific Symposium on Structural Reliability and Its Applications, Tokyo, Japan, October 5-7, 2020. (Oral)
-* 
+
 * EGU2020: Sharing Geoscience Online, May 4-8, 2020. (Oral)
 
 * Geo-Congress 2019: Soil Erosion, Underground Engineering, and Risk Assessment. Philadelphia, Pennsylvania, USA, March 24–27, 2019. (Oral)
