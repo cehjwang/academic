@@ -37,7 +37,7 @@ My ongoing research projects encompass three fields: (a) AI-powered landslide id
 
 Recent updates
 ======
-<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.03.23] We have collaborated with the [United Nations Environment Programme (UNEP)](https://www.unep.org/) on designing the [START Hack 2022](https://www.starthack.eu/) held in St. Gallen, Switzerland. The hackthon dataset is prepared by me, please feel free to click [HERE](https://github.com/START-Hack/UNEP-STARTHACK22) to download the data and hack it!
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.03.23] We have collaborated with the [United Nations Environment Programme (UNEP)](https://www.unep.org/) on designing the [START Hack 2022](https://www.starthack.eu/) held in St. Gallen, Switzerland. I designed and prepared the hackthon dataset. Please feel free to download from [HERE](https://github.com/START-Hack/UNEP-STARTHACK22) and hack it!
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2021.12.18] A new research paper entiled "[An Automated Snow Mapper Powered by Machine Learning](https://cehjwang.github.io/publication/202111)" is published on Remote Sensing.
 
