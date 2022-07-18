@@ -39,9 +39,9 @@ Publications
   {% endfor %}</ul>  //-->
   
 **Peer-reviewed journal papers with first authorship**
-* **Wang, H.J.**, Zhang, L.M., Wang, L., Fan, R.L., Zhou, S.Y., Qiang, Y.J., Peng, M., 2022. Machine learning powered high-resolution co-seismic landslide detection. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.004">https://doi.org/10.1016/j.gr.2022.07.004</a>.
+* **Wang, H.J.**, Wang, L., Zhang, L.M., 2022. Transfer learning improves landslide susceptibility assessment. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.008">https://doi.org/10.1016/j.gr.2022.07.008</a>.
 
-* **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, <a href="https://doi.org/10.1016/j.enggeo.2021.106103">https://doi.org/10.1016/j.enggeo.2021.106103</a>.
+* **Wang, H.J.**, Zhang, L.M., Wang, L., Fan, R.L., Zhou, S.Y., Qiang, Y.J., Peng, M., 2022. Machine learning powered high-resolution co-seismic landslide detection. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.004">https://doi.org/10.1016/j.gr.2022.07.004</a>.
 
 * **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, <a href="https://doi.org/10.1016/j.enggeo.2021.106103">https://doi.org/10.1016/j.enggeo.2021.106103</a>.
 
