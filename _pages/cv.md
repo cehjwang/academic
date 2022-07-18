@@ -52,7 +52,9 @@ Publications
 * **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. <a href="https://doi.org/10.1016/j.enggeo.2019.02.004">https://doi.org/10.1016/j.enggeo.2019.02.004</a>.
   
 **Co-authored journal papers**
-* Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, <a href="https://10.1007/s10346-021-01745-y">https://10.1007/s10346-021-01745-y</a>.
+* Xu, Z. D., Zhang, L. M., Kamali Zarch, M., **Wang, H. J.**, 2022. Experimental study of internal erosion in granular soil subject to cyclic hydraulic gradient reversal. Journal of Geotechnical and Geoenvironmental Engineering, 148(5), 04022014. <a href="https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785">https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785</a>.
+
+* Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, <a href="https://10.1007/s10346-021-01745-y">https://doi.org/10.1007/s10346-021-01745-y</a>.
 
 * Qiang, Y.J., Zhang, L.M., He, J., Xiao, T., Huang, H.H., **Wang, H.J.**, 2021. Urban flood hazards in the Guangdong-Hong Kong-Macau Greater Bay Area upon compound rainstorm-storm surge events, Journal of Hydrology, <a href="https://doi.org/10.1016/j.jhydrol.2021.126293">https://doi.org/10.1016/j.jhydrol.2021.126293</a>.
 
@@ -86,7 +88,7 @@ Presentations and invited talks
 
 Professional service
 ======
-**Journals and conferences reviewer**
+**Journal and conference reviewer**
 * Engineering Geology
 * Automation in Construction 
 * Lithosphere
