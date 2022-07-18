@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2020<br />
   * Postgraduate studentship of HKUST
-  * Graduation Grade Average: 3.9/4.0
+  * Graduation Grade Average: 3.9/4.3
 * B.Eng. in Civil Engineering, China University of Geosciences, 2016
   * Grade ranking: 1st/208, top 0.5%
   * National Scholarship (Highest honor for students in China)
