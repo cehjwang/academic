@@ -22,7 +22,7 @@ Education
   * Excellent Bachelor’s Degree Dissertation Award of Hubei Province, China (Highest honor for bachelor’s degree dissertation)
   
   
-Work experience
+Professional experience
 ======
 * Summer 2020 - Now: Postdoctoral Researcher
   * The Hong Kong University of Science and Technology
