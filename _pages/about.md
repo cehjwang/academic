@@ -29,7 +29,7 @@ My current research focuses on the investigation of natural hazards (e.g., rain-
 </div>
 <div align="left">
 <br/>
-My ongoing research projects encompass three fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping and temporal evolution analysis under global warming, (c) intelligent earth observation for improving strategic decision making and (d) Experimental investigations on sustainable geo-materials.
+My ongoing research projects encompass four fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping and temporal evolution analysis under global warming, (c) intelligent earth observation for improving strategic decision making and (d) Experimental investigations on sustainable geo-materials.
 </div>
 
 -----
