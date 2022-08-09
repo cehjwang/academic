@@ -29,14 +29,14 @@ My current research focuses on the investigation of natural hazards (e.g., rain-
 </div>
 <div align="left">
 <br/>
-My ongoing research projects encompass four fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping and temporal evolution analysis under global warming, (c) intelligent earth observation for improving strategic decision making and (d) Experimental investigations on sustainable geo-materials.
+My ongoing research projects encompass four fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping and temporal evolution analysis under global warming, (c) intelligent earth observation for improving strategic decision making and (d) experimental investigations on sustainable geo-materials.
 </div>
 
 -----
 
 Recent updates
 ======
-<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.08.09] Paternered with the United Nations Environment Programme (UNEP), International Telecommunication Union (ITU) and World Meteorological Organization (WMO), we are proudly lauching a new hack, [Landslide Prevention and Innovation Challenge](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge), on Zindi. [Enroll now](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge) and join us to shape the future of hazard prevention and management using AI!
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.08.09] Paternered with the [United Nations Environment Programme (UNEP)](https://www.unep.org/), [International Telecommunication Union (ITU)](https://www.itu.int/en/Pages/default.aspx) and [World Meteorological Organization (WMO)](https://public.wmo.int/en), we are proudly lauching a new hack, [Landslide Prevention and Innovation Challenge](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge), on Zindi. [Enroll now](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge) and join us to shape the future of hazard prevention and management using AI!
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.07.11] A new research paper entitled "[Transfer learning improves landslide susceptibility assessment](https://cehjwang.github.io/publication/202207b)" is published in Gondwana Research.
 
