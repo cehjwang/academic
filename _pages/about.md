@@ -36,7 +36,7 @@ My ongoing research projects encompass three fields: (a) AI-powered landslide id
 
 Recent updates
 ======
-<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.08.09] Paternered with the United Nations Environment Programme (UNEP), International Telecommunication Union (ITU) and World Meteorological Organization (WMO), we are proudly lauching a new hack, [Landslide Prevention and Innovation Challenge](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge), on Zindi. [Enroll now](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge) and join us to to shape the future of hazard prevention and management using AI!
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.08.09] Paternered with the United Nations Environment Programme (UNEP), International Telecommunication Union (ITU) and World Meteorological Organization (WMO), we are proudly lauching a new hack, [Landslide Prevention and Innovation Challenge](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge), on Zindi. [Enroll now](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge) and join us to shape the future of hazard prevention and management using AI!
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.07.11] A new research paper entitled "[Transfer learning improves landslide susceptibility assessment](https://cehjwang.github.io/publication/202207b)" is published in Gondwana Research.
 
