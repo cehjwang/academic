@@ -25,11 +25,11 @@ Research interests
 
 <div align="left">
 <img src="/images/reserach%20overview.png" width="506" height="440" style="float:left">
-My current research focuses on the investigation of rain- and earthquake-induced landslides using artificial intelligence (AI) and remote sensing (RS) techniques, as well as developing machine learning-based solutions for snow/glacier analyses. My research area mainly covers Hong Kong and the Tibetan Plateau.
+My current research focuses on the investigation of natural hazards (e.g., rain- and earthquake-induced landslides) and snow evolution under climate change using artificial intelligence (AI) and remote sensing (RS) techniques.
 </div>
 <div align="left">
 <br/>
-My ongoing research projects encompass three fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping   and temporal evolution analysis, and (c) Experimental investigations on hydrophobic (water repellent) soils.
+My ongoing research projects encompass three fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping and temporal evolution analysis under global warming, (c) intelligent earth observation for improving strategic decision making and (d) Experimental investigations on sustainable geo-materials.
 </div>
 
 -----
