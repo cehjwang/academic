@@ -76,6 +76,8 @@ Presentations and invited talks
 <!--  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> //-->
+* 4th International Conference on Information Technology in Geo-Engineering, Singapore, August 4-5, 2022 (Oral, invited)
+
 * The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral, invited)
 
 * The 7th Asian-Pacific Symposium on Structural Reliability and Its Applications, Tokyo, Japan, October 5-7, 2020. (Oral)
@@ -92,6 +94,7 @@ Professional service
 * Engineering Geology
 * Automation in Construction 
 * Lithosphere
+* Natural Hazards
 * Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards
 * Bulletin of Engineering Geology and the Environment
 * Geomatics Natural Hazards & Risk
