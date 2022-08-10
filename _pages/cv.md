@@ -39,17 +39,17 @@ Publications
   {% endfor %}</ul>  //-->
   
 **Peer-reviewed journal papers with first authorship**
-* **Wang, H.J.**, Wang, L., Zhang, L.M., 2022. Transfer learning improves landslide susceptibility assessment. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.008">https://doi.org/10.1016/j.gr.2022.07.008</a>.
+* **Wang, H.J.**, Wang, L., Zhang, L.M., 2022. Transfer learning improves landslide susceptibility assessment. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.008">https://doi.org/10.1016/j.gr.2022.07.008</a>. [PDF](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2022-Transfer%20learning%20improves%20landslide.pdf)
 
-* **Wang, H.J.**, Zhang, L.M., Wang, L., Fan, R.L., Zhou, S.Y., Qiang, Y.J., Peng, M., 2022. Machine learning powered high-resolution co-seismic landslide detection. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.004">https://doi.org/10.1016/j.gr.2022.07.004</a>.
+* **Wang, H.J.**, Zhang, L.M., Wang, L., Fan, R.L., Zhou, S.Y., Qiang, Y.J., Peng, M., 2022. Machine learning powered high-resolution co-seismic landslide detection. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2022.07.004">https://doi.org/10.1016/j.gr.2022.07.004</a>. [PDF](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2022-Machine%20learning%20powered%20high-resolu.pdf)
 
-* **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, <a href="https://doi.org/10.1016/j.enggeo.2021.106103">https://doi.org/10.1016/j.enggeo.2021.106103</a>.
+* **Wang, H.J.**, Zhang, L.M., Luo, H.Y., He, J., Cheung, R.W.M., 2021. AI-powered landslide susceptibility assessment in Hong Kong. Engineering Geology, <a href="https://doi.org/10.1016/j.enggeo.2021.106103">https://doi.org/10.1016/j.enggeo.2021.106103</a>. [PDF](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2021-AI-powered%20landslide%20susceptibility.pdf)
 
-* **Wang, H.J.**, Zhang, L.M., Yin, K., Luo, H.Y., Li, J.H., 2021. Landslide identification using machine learning. Geoscience Frontiers, <a href="https://doi.org/10.1016/j.gsf.2020.02.012">https://doi.org/10.1016/j.gsf.2020.02.012</a>. (Clarivate ESI Hot Paper& Highly Cited Paper as of July 2021)
+* **Wang, H.J.**, Zhang, L.M., Yin, K., Luo, H.Y., Li, J.H., 2021. Landslide identification using machine learning. Geoscience Frontiers, <a href="https://doi.org/10.1016/j.gsf.2020.02.012">https://doi.org/10.1016/j.gsf.2020.02.012</a>. (Clarivate ESI Hot Paper& Highly Cited Paper as of July 2021) [PDF](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2021-Landslide%20identification%20using%20machi.pdf)
 
-* **Wang, H.J.**, Zhang, L.M., Wang, L., He, J., Luo, H.Y., 2021. An Automated Snow Mapper Powered by Machine Learning. Remote Sensing, 13(23), 4826. <a href="https://doi.org/10.3390/rs13234826">https://doi.org/10.3390/rs13234826</a>.
+* **Wang, H.J.**, Zhang, L.M., Wang, L., He, J., Luo, H.Y., 2021. An Automated Snow Mapper Powered by Machine Learning. Remote Sensing, 13(23), 4826. <a href="https://doi.org/10.3390/rs13234826">https://doi.org/10.3390/rs13234826</a>. [PDF](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2021-An%20Automated%20Snow%20Mapper%20Powered%20by.pdf)
 
-* **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. <a href="https://doi.org/10.1016/j.enggeo.2019.02.004">https://doi.org/10.1016/j.enggeo.2019.02.004</a>.
+* **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. <a href="https://doi.org/10.1016/j.enggeo.2019.02.004">https://doi.org/10.1016/j.enggeo.2019.02.004</a>. [PDF](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2019-A%20novel%20physically-based%20model%20for%20u.pdf)
   
 **Co-authored journal papers**
 * Xu, Z. D., Zhang, L. M., Kamali Zarch, M., **Wang, H. J.**, 2022. Experimental study of internal erosion in granular soil subject to cyclic hydraulic gradient reversal. Journal of Geotechnical and Geoenvironmental Engineering, 148(5), 04022014. <a href="https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785">https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785</a>.
