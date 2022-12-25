@@ -25,11 +25,11 @@ Research interests
 
 <div align="left">
 <img src="/images/reserach%20overview.png" width="405" height="352" style="float:left">
-My current research focuses on the investigation of natural hazards (e.g., rain- and earthquake-induced landslides) and snow evolution under climate change using artificial intelligence (AI) and remote sensing (RS) techniques.
+My current research focuses on the investigation of natural hazards (e.g., rain- and earthquake-induced landslides) and snow/glacier evolution under climate change using artificial intelligence (AI) and remote sensing (RS) techniques.
 </div>
 <div align="left">
 <br/>
-My ongoing research projects encompass four fields: (a) AI-powered landslide identification, hazard assessment and forecasting, (b) Machine learning-based automated snow/glacier mapping and temporal evolution analysis under global warming, (c) intelligent earth observation for improving strategic decision making and (d) experimental investigations on sustainable geo-materials.
+I am particularly interested in developing AI-based solutions to address sustainable development challenges in (a) landslide risk assessment, early warning and forecasting for sustainable cities and communities, (b) intelligent earth observation for improving population health and supporting policy making, and (c) snow/glacier mapping and temporal evolution under global warming.
 </div>
 
 -----
