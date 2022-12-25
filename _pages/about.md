@@ -24,7 +24,7 @@ Research interests
 ======
 
 <div align="left">
-<img src="/images/reserach%20overview.png" width="405" height="352" style="float:left">
+<img src="/images/reserach%20overview.png" width="405" height="352" style="float:right">
 My current research focuses on the investigation of natural hazards (e.g., rain- and earthquake-induced landslides) and snow/glacier evolution under climate change using artificial intelligence (AI) and remote sensing (RS) techniques.
 </div>
 <div align="left">
