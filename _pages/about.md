@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div align="justify">
+<div align="left">
 <h1>Hi, there!</h1>
 Welcome to my personal website. I am Haojie Wang (王昊杰), currently a post-doctoral researcher at <a href="https://www.ce.ust.hk/">Department of Civil & Environmental Engineering</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>, working with <a href="https://www.ce.ust.hk/people/limin-zhang-zhanglimin">Professor Limin Zhang</a>.
 </div>
