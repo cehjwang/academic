@@ -29,7 +29,7 @@ My current research focuses on the investigation of natural hazards (e.g., rain-
 </div>
 <div align="left">
 <br/>
-I am particularly interested in developing AI-based solutions to address sustainable development challenges in (a) landslide risk assessment, early warning and forecasting for sustainable cities and communities, (b) intelligent earth observation for improving population health and supporting policy making, and (c) snow/glacier mapping and temporal evolution under global warming.
+I am particularly interested in developing AI-based solutions to address sustainable development challenges in (a) landslide risk assessment, early warning and forecasting for sustainable cities and communities, (b) intelligent earth observation for improving population health and supporting policy making, (c) snow/glacier mapping and temporal evolution under global warming, (d) innovative geo-materials for sustainable development.
 </div>
 
 -----
