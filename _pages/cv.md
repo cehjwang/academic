@@ -52,13 +52,13 @@ Publications
 * **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. <a href="https://doi.org/10.1016/j.enggeo.2019.02.004">https://doi.org/10.1016/j.enggeo.2019.02.004</a>. [[PDF]](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2019-A%20novel%20physically-based%20model%20for%20u.pdf)
   
 **Co-authored journal papers**
-* Xu, Z. D., Song, J. Y., Wang, H. J., Kamali Zarch, M., Zhang, L. M., 2022. Internal erosion in hydrophobic and hydrophilic soils. Geotechnique, [https://doi.org/10.1680/jgeot.22.00002](https://doi.org/10.1680/jgeot.22.00002).
+* Xu, Z. D., Song, J. Y., **Wang, H. J.**, Kamali Zarch, M., Zhang, L. M., 2022. Internal erosion in hydrophobic and hydrophilic soils. Geotechnique, [https://doi.org/10.1680/jgeot.22.00002](https://doi.org/10.1680/jgeot.22.00002).
 
-* Ju, L.Y., Xiao, T., He, J., Wang, H. J., Zhang, L. M., 2022. Predicting landslide runout paths using terrain matching-targeted machine learning. Engineering Geology, [https://doi.org/10.1016/j.enggeo.2022.106902](https://doi.org/10.1016/j.enggeo.2022.106902).
+* Ju, L.Y., Xiao, T., He, J., **Wang, H. J.**, Zhang, L. M., 2022. Predicting landslide runout paths using terrain matching-targeted machine learning. Engineering Geology, [https://doi.org/10.1016/j.enggeo.2022.106902](https://doi.org/10.1016/j.enggeo.2022.106902).
 
-* He, J., Zhang, L. M., Xiao, T., Wang, H. J., Luo, H. Y., 2022. Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, accepted.
+* He, J., Zhang, L. M., Xiao, T., **Wang, H. J.**, Luo, H. Y., 2022. Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, accepted.
 
-* Luo, H. Y., Zhang, L.M., Yin, K.S., Wang, H.J., Zhou, G.D., Peng, M., Cheng, Q.G., 2022. Energy transfer mechanisms in flow-like landslide processes in deep valleys. Engineering Geology, 308, 106798.[https://doi.org/10.1016/j.enggeo.2022.106798](https://doi.org/10.1016/j.enggeo.2022.106798)
+* Luo, H. Y., Zhang, L.M., Yin, K.S., **Wang, H.J.**, Zhou, G.D., Peng, M., Cheng, Q.G., 2022. Energy transfer mechanisms in flow-like landslide processes in deep valleys. Engineering Geology, 308, 106798.[https://doi.org/10.1016/j.enggeo.2022.106798](https://doi.org/10.1016/j.enggeo.2022.106798)
 
 * Xu, Z. D., Zhang, L. M., Kamali Zarch, M., **Wang, H. J.**, 2022. Experimental study of internal erosion in granular soil subject to cyclic hydraulic gradient reversal. Journal of Geotechnical and Geoenvironmental Engineering, 148(5), 04022014. <a href="https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785">https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785</a>.
 
