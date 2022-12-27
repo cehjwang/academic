@@ -52,6 +52,14 @@ Publications
 * **Wang, H.J.**, Xiao, T., Li, X.Y., Zhang, L.L., Zhang, L.M., 2019. A novel physically-based model for updating landslide susceptibility. Engineering Geology 251: 71-80. <a href="https://doi.org/10.1016/j.enggeo.2019.02.004">https://doi.org/10.1016/j.enggeo.2019.02.004</a>. [[PDF]](https://github.com/cehjwang/cehjwang.github.io/raw/master/files/Wang-2019-A%20novel%20physically-based%20model%20for%20u.pdf)
   
 **Co-authored journal papers**
+* Xu, Z. D., Song, J. Y., Wang, H. J., Kamali Zarch, M., Zhang, L. M., 2022. Internal erosion in hydrophobic and hydrophilic soils. Geotechnique, [https://doi.org/10.1680/jgeot.22.00002](https://doi.org/10.1680/jgeot.22.00002).
+
+* Ju, L.Y., Xiao, T., He, J., Wang, H. J., Zhang, L. M., 2022. Predicting landslide runout paths using terrain matching-targeted machine learning. Engineering Geology, [https://doi.org/10.1016/j.enggeo.2022.106902](https://doi.org/10.1016/j.enggeo.2022.106902).
+
+* He, J., Zhang, L. M., Xiao, T., Wang, H. J., Luo, H. Y., 2022. Prompt quantitative risk assessment for rain-induced landslides. Journal of Geotechnical and Geoenvironmental Engineering, accepted.
+
+* Luo, H. Y., Zhang, L.M., Yin, K.S., Wang, H.J., Zhou, G.D., Peng, M., Cheng, Q.G., 2022. Energy transfer mechanisms in flow-like landslide processes in deep valleys. Engineering Geology, 308, 106798.[https://doi.org/10.1016/j.enggeo.2022.106798](https://doi.org/10.1016/j.enggeo.2022.106798)
+
 * Xu, Z. D., Zhang, L. M., Kamali Zarch, M., **Wang, H. J.**, 2022. Experimental study of internal erosion in granular soil subject to cyclic hydraulic gradient reversal. Journal of Geotechnical and Geoenvironmental Engineering, 148(5), 04022014. <a href="https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785">https://doi.org/10.1061/(ASCE)GT.1943-5606.0002785</a>.
 
 * Luo, H. Y., Zhang, L.M., **Wang, H.J.**, He, J., 2021. Process of building collapse caused by the Po Shan Road landslide in Hong Kong on 18 June 1972. Landslides, <a href="https://10.1007/s10346-021-01745-y">https://doi.org/10.1007/s10346-021-01745-y</a>.
@@ -76,6 +84,12 @@ Presentations and invited talks
 <!--  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> //-->
+* AGU (American Geophysical Union) Fall Meeting, Chicago, USA, December 12-16, 2022 (Oral)
+
+* China Rock: The 19th China Rock Mechanics and Engineering Annual Academic Conference, Beijing, China, November 3-6, 2022 (Oral, invited)
+
+* International Doctoral School on LAndslide Risk Assessment and Mitigation (LARAM), Salerno, Italy, September 5-16, 2022 (Oral)
+
 * 4th International Conference on Information Technology in Geo-Engineering, Singapore, August 4-5, 2022 (Oral, invited)
 
 * The Fifth International Young Scholars Geo-Symposium, Beijing, China, November 15-16, 2021. (Oral, invited)
