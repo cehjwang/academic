@@ -36,6 +36,10 @@ I am particularly interested in developing AI-based solutions to address sustain
 
 Recent updates
 ======
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.12.13] I made an oral presentation ('Artificial intelligence empowers knowledge sharing in landslide prediction') at the [AGU (American Geophysical Union) Fall Meeting](https://www.agu.org/Fall-Meeting) held at Chicago, USA, December 12-16, 2022.
+
+<img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.09.05] I joined the [International Doctoral School on LAndslide Risk Assessment and Mitigation (LARAM)](https://www.laram.unisa.it/index) held at Salerno, Italy, September 5-16, 2022.
+
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.08.09] Paternered with the [United Nations Environment Programme (UNEP)](https://www.unep.org/), [International Telecommunication Union (ITU)](https://www.itu.int/en/Pages/default.aspx) and [World Meteorological Organization (WMO)](https://public.wmo.int/en), we are proudly lauching a new hack, [Landslide Prevention and Innovation Challenge](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge), on Zindi. [Enroll now](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge) and join us to shape the future of hazard prevention and management using AI!
 
 <img src="/images/right-arrow-red.gif" width="20" height="12" style="vertical-align:middle"/> [2022.07.11] A new research paper entitled "[Transfer learning improves landslide susceptibility assessment](https://cehjwang.github.io/publication/202207b)" is published in Gondwana Research.
